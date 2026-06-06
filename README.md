@@ -77,7 +77,7 @@ Performance results generated during testing are available in the project output
 Clone the repository:
 
 ```bash
-git clone https://github.com/saimadhavmk1/archaeology-image-retrieval.git
+git clone https://github.com/saimadhavmk/archaeology-image-retrieval.git
 ```
 
 Install dependencies:
